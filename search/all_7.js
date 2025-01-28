@@ -24,7 +24,7 @@ var searchData=
   ['global_5feqn_5fids_21',['global_eqn_ids',['../class_block.html#a7851447ef34b1f916a056b572713e9db',1,'Block']]],
   ['global_5fparam_5fids_22',['global_param_ids',['../class_block.html#a1340395052b260178d7dcca13bc9fc62',1,'Block']]],
   ['global_5fvar_5fids_23',['global_var_ids',['../class_block.html#ab64718f69f658fd3f66eb959f9349b9e',1,'Block']]],
-  ['governing_20equations_24',['Governing equations',['../class_blood_vessel.html#autotoc_md0',1,'Governing equations'],['../class_blood_vessel_junction.html#autotoc_md4',1,'Governing equations'],['../class_chamber_elastance_inductor.html#autotoc_md8',1,'Governing equations'],['../class_closed_loop_coronary_b_c.html#autotoc_md11',1,'Governing equations'],['../class_closed_loop_r_c_r_b_c.html#autotoc_md15',1,'Governing equations'],['../class_flow_reference_b_c.html#autotoc_md18',1,'Governing equations'],['../class_junction.html#autotoc_md21',1,'Governing equations'],['../class_open_loop_coronary_b_c.html#autotoc_md23',1,'Governing equations'],['../class_pressure_reference_b_c.html#autotoc_md26',1,'Governing equations'],['../class_resistance_b_c.html#autotoc_md29',1,'Governing equations'],['../class_resistive_junction.html#autotoc_md32',1,'Governing equations'],['../class_valve_tanh.html#autotoc_md35',1,'Governing equations'],['../class_windkessel_b_c.html#autotoc_md38',1,'Governing equations']]],
-  ['gradient_25',['Gradient',['../class_blood_vessel.html#autotoc_md2',1,'Gradient'],['../class_blood_vessel_junction.html#autotoc_md6',1,'Gradient']]],
-  ['guide_26',['Guide',['../developer_guide.html',1,'Developer Guide'],['../index.html#autotoc_md55',1,'Developer Guide']]]
+  ['gui_20guide_24',['GUI Guide',['../_g_u_i.html',1,'']]],
+  ['guide_25',['Guide',['../developer_guide.html',1,'Developer Guide'],['../index.html#autotoc_md11',1,'Developer Guide'],['../_g_u_i.html',1,'GUI Guide'],['../visualization.html',1,'Visualization Guide']]],
+  ['guide_26',['User guide',['../_g_u_i.html#autotoc_md10',1,'']]]
 ];
